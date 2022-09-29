@@ -20,6 +20,3 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasrodbsb&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="lucasrodbsb" /></p>
 
-<hr>
-
-<p align="center"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."></p>
