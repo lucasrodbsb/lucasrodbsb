@@ -5,8 +5,3 @@
   <a href="https://linkedin.com/in/lucas-rocha-515358223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasrodbsb" height="30" width="40" /></a>
   <a href="https://github.com/lucasrodbsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lucasrodbsb" height="30" width="40" /></a>
 </p>
-
-<hr>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasrodbsb&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="lucasrodbsb" /></p>
-
